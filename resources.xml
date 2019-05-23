@@ -10,7 +10,7 @@
     hostname="192.168.1.107:4022"
     username="deploy"
     />
-<node name="newNodea" type="Node"
+<node name="newNode1" type="Node"
     description="a centos host"
     hostname="192.168.1.110:4022"
     username="deploy"
